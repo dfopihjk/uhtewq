@@ -8,7 +8,7 @@
 
 经测试本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/cyao2q/heroku-vless-1/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/dfopihjk/uhtewq/tree/master)
 
 ## 注意
 
@@ -53,5 +53,4 @@ addEventListener(
 )
 ```
 
-### 客户端软件推荐v2rayN
-https://github.com/2dust/v2rayN/releases/tag/4.20
+
